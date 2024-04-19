@@ -26,4 +26,10 @@ case.
 
 Overall: Good job, but you need to pay some more attention to the details.  I
 think the discussion in part (a) is particularly disconnected from the results
-you're getting, which suggests you may not really understand what's going on.  
+you're getting, which suggests you may not really understand what's going on. 
+
+## PS6: 8/10
+- I like the animations!  You should probably keep the axes constant though throughout
+- $f_3$ is unreadable -- don't go all the way down to zero for functions that blow up like this
+- I'm not sure this approach to showing the optimal solution in Q2 is working.  Kind of hard to make sense of.  Choosing k' and c are equivalent in this case, so you really only need to plot one
+- Otherwise, nicely done.   
