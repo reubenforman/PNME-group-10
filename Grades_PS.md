@@ -32,4 +32,10 @@ you're getting, which suggests you may not really understand what's going on.
 - I like the animations!  You should probably keep the axes constant though throughout
 - $f_3$ is unreadable -- don't go all the way down to zero for functions that blow up like this
 - I'm not sure this approach to showing the optimal solution in Q2 is working.  Kind of hard to make sense of.  Choosing k' and c are equivalent in this case, so you really only need to plot one
-- Otherwise, nicely done.   
+- Otherwise, nicely done.  
+
+PS7: 7.25/10 Nice effort!
+- Q1: reported computation times seem quite high.  Can you improve it?
+- The amount of noise here in the solutions is concerning -- are you failing to solve the optimization problem robustly?
+- IRFs look strange, although you're finding roughly the right steady state
+- Q2: good attempt, but it looks like things aren't quite working.  See my solutions.   
