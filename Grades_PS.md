@@ -39,3 +39,7 @@ PS7: 7.25/10 Nice effort!
 - The amount of noise here in the solutions is concerning -- are you failing to solve the optimization problem robustly?
 - IRFs look strange, although you're finding roughly the right steady state
 - Q2: good attempt, but it looks like things aren't quite working.  See my solutions.   
+
+PS8: 8.5/10
+- You are correct that the iteration method you used in (c) will take _forever_.  You should use a smarter algorithm instead
+- But overall, this is a really well done problem set.  Great job
